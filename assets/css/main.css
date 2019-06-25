@@ -1,0 +1,12 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+header {
+    background:white;
+}
+
+header > h1 {
+    color:#585858;
+}
